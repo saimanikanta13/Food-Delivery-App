@@ -23,37 +23,7 @@ The **Food Delivery App** is a simple web application that allows users to brows
 * 💳 Place orders with total price calculation
 * 🎨 Responsive UI with clean design
 
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/food-delivery-app.git
-   cd food-delivery-app
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-3. Start JSON Server (for mock API):
-
-   ```bash
-   npx json-server --watch db.json --port 5000
-   ```
-
-4. Run the React app:
-
-   ```bash
-   npm start
-   ```
-
----
-
+  
 ## 📈 Future Improvements
 
 * Add user authentication (login/signup).
